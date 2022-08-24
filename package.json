@@ -1,0 +1,17 @@
+{
+  "name": "js-auto-refactor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "XiaoQu",
+  "license": "MIT",
+  "dependencies": {
+    "ast-types": "^0.14.2",
+    "escodegen": "^2.0.0",
+    "esrecurse": "^4.3.0",
+    "vue-eslint-parser": "^9.0.3"
+  }
+}
