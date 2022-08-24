@@ -1,0 +1,12 @@
+= js auto refactor
+
+== motivation
+
+this project is mainly to help me to better learn AST.
+
+== project description
+
+. **`index.js`**  is a auto refactor import name tools, the result will show in console
+
+. **`src/ts-interface/index.js`** is a TS interface name auto refactor tool, the result will be in a new file `app.ts.new` as content. also the interface name should be start with __**I**__, if not with rename it start with __**I**__
+
